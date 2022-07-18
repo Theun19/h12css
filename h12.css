@@ -1,0 +1,102 @@
+body{
+  background: #FFE4E1;
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+header{
+  padding: 20px 0 0px 0;
+  text-align: center;
+  background: #FF6347;
+  color: white;
+  font-size: 30px;
+}
+.nav{
+  background-color: #FF8C00;
+  color: white;
+  list-style: none;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.nav > li{
+  display: inline-block;
+  padding-right: 50px;
+}
+.nav> li> a{
+  text-decoration: none;
+  color: white;
+}
+
+.nav> li> a:hover{
+color: #FF6347;
+
+}
+#red{
+  background: #E3A869;
+  padding: 60px;
+  color: white;
+}
+#blue{
+  background: #ED9121;
+  padding: 60px;
+  color: white;
+}
+#yellow{
+  background: #FF8C00;
+  padding: 60px;
+  color: white;
+}
+#purple{
+  background: #FF8C00;
+  padding: 60px;
+  color: white;
+}
+#vork{
+  background: #EE7600;
+}
+#lepel{
+  background: #CD6600;
+}
+#mes{
+  background: #8B4500;
+}
+#bord{
+  background: #FF8000;
+}
+#green{
+  background: #FFA54F;
+  padding: 60px;
+  color: white;
+}
+#pink{
+  background: #EE9A49;
+  padding: 60px;
+  color: white;
+}
+#grey{
+  background: #CD853F;
+  padding: 60px;
+  color: white;
+}
+#silver{
+  background: #F4A460;
+  padding: 60px;
+  color: white;
+}
+#pan{
+  background: #C76114;
+}
+#kom{
+  background: #D2691E;
+}
+#glas{
+  background: #FF7F24;
+}
+#beker{
+  background: #EE7621;
+}
+footer {
+  height: 200px;
+  background: #FF6347;
+
+}
